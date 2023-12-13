@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="currencies">
+        <item>Euro</item>
+        <item>Lira</item>
+        <item>USD</item>
+        <!-- Adaugă alte valute aici, dacă este nevoie -->
+    </array>
+</resources>
