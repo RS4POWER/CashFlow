@@ -275,6 +275,14 @@ public class MainActivity extends AppCompatActivity {
         switch (country.toLowerCase()) {
             case "românia":
                 return "RON";
+            case "germania":
+                return "EUR";
+            case "austria":
+                return "EUR";
+            case "italia":
+                return "EUR";
+            case "spania":
+                return "EUR";
             case "emiratele arabe unite":
                 return "AED";
             case "afganistan":
